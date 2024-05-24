@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "472094874393",
+    "project_id": "closethatholegram",
+    "storage_bucket": "closethatholegram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472094874393:android:c04588c1642a46b1938388",
+        "android_client_info": {
+          "package_name": "com.ddm.closethatholegram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2BE_GwEfqyunVPm58aW5aV2zweG90Ep0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
